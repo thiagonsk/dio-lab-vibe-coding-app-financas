@@ -1,6 +1,6 @@
 # 💸 Projeto FinanChat - App de Organização de Finanças Pessoais com Vibe Coding
 
-## PRD Feito no Copilot Web + Alguns Ajustes Pessoais:
+### PRD Feito no Copilot Web + Alguns Ajustes Pessoais:
 ```markdown
 # PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
 
@@ -80,7 +80,7 @@ Princípios fundamentais:
 - Conversa natural, próxima ao estilo de mensagens instantâneas.
 - Foco em motivação e simplicidade, para reduzir barreiras de uso.
 ```
-## Principais Interações  com Lovable
+# 🤝 Principais Interações  com Lovable
 
 > Crie um app de assitente financeiro seguindo este PRD(Product Requirements Document):{PRD}
 
@@ -89,13 +89,17 @@ Princípios fundamentais:
 > a tela de relatorios está sem rolagem e não consigo ver todos os dados, poderia adicionar pra mim?
 
 > adicione um botão discreto para mudar o app para modo dark.
-#
-### App Final no Lovable: https://id-preview--375f42eb-e5cf-4198-a225-0d7540961f8e.lovable.app/auth
-### OVERVIEW: https://youtu.be/XDqKX3Z7XE4
+
+# 🖼️ Prints e Vídeos
+### App Final no Lovable: 
+   https://id-preview--375f42eb-e5cf-4198-a225-0d7540961f8e.lovable.app/auth
+
+### OVERVIEW: 
+   https://youtu.be/XDqKX3Z7XE4
 
 <img width="1918" height="872" alt="FinanChat" src="https://github.com/user-attachments/assets/739d1ffa-c1cd-4e2f-90ae-9bddbbd0d4fe" />
 
-## Funcionalidades do Aplicativo
+# ⚙️ Funcionalidades do Aplicativo
 
 ### 1. Interface Conversacional
 - Interação por mensagens em linguagem natural.
@@ -130,7 +134,7 @@ Princípios fundamentais:
 - O agente confirma cada ação registrada.
 - Toda conversa é salva para facilitar acompanhamento e retomada de assuntos.
   
-## Reflexão
+# 💭 Reflexão
   ### O que funcionou bem?
    A criação do app foi rápida e a adição de funcionalidades foi simples de implementar apesar da limitação de creditos do Lovable.
   ### O que não funcionou como o esperado?  
@@ -138,10 +142,4 @@ Princípios fundamentais:
    o processo demorou mais que o esperado pois tive apenas de 3 a 5 correções por dia.
   ### O que aprendeu sobre conversar com IAs?
    A maior barreira é o prompt, já que sem conhecimento de programação ficou mais difícil especificar os problemas encontrados.
-#
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+   
